@@ -3,4 +3,5 @@ function Square (n) {
     var res = n * n;
     return res;
 }
-var newNumber = Square(3);
+var newNumber = Square(6);
+console.log(newNumber)
